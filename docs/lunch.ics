@@ -1,0 +1,1629 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//andrewdefilippis//my-school-menus//EN
+NAME:Lincoln Elementary School Lunch
+X-WR-CALNAME:Lincoln Elementary School Lunch
+REFRESH-INTERVAL:PT12H
+UID:1167-9188-lunch@my-school-menus
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Vegetarian Black Bean Nachos or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20261102
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-02@my-school-menus
+DESCRIPTION:Lunch Entree:\nVegetarian Black Bean Nachos\nBagel Balance Box
+ \n\nVegetables:\nBaby Carrots\nRoasted Fajita Vegetables\nFiesta Bar Toppi
+ ngs\n\nFruit:\nPears\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFa
+ t-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20261103
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-03@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20261104
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-04@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20261105
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-05@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nKale Chips\nCelery\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: BBQ Chicken Sandwich or Bagel Bal
+ ance Box
+DTSTART;VALUE=DATE:20261106
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-06@my-school-menus
+DESCRIPTION:Lunch Entree:\nBBQ Chicken Sandwich\nBagel Balance Box\n\nVege
+ tables:\nHomemade Coleslaw\nBaby Carrots\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Broccoli Cheese Soup or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20261109
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-09@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Broccoli Cheese Soup\nBagel Balance Bo
+ x\n\nVegetables:\nBaby Carrots\nZucchini\n\nFruit:\nFresh Apples\n\nGrains
+ :\nWhole-Grain Rolls\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFa
+ t-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20261110
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-10@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nHearty Kale Salad\nBurger Toppings: 
+ Lettuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings
+ : Tomato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat
+ -Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Chicken Corn Dog or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20261112
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-12@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Chicken Corn Dog\nBagel Balance Box
+ \n\nVegetables:\nBaby Carrots\nCrispy Roasted Chickpeas\n\nFruit:\nVariety
+  of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-F
+ ree Milk\n\nCondiments:\nMustard\nKetchup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Teriyaki Chicken or Bagel Balance
+  Box
+DTSTART;VALUE=DATE:20261113
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-13@my-school-menus
+DESCRIPTION:Lunch Entree:\nTeriyaki Chicken\nBagel Balance Box\n\nVegetabl
+ es:\nStir-Fry Vegetables\nCucumbers\n\nFruit:\nVariety of Fruit Options\n
+ \nGrains:\nVegetable Fried Rice\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocola
+ te Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Veggie Pizza or Four Cheese Pizza
+  or Bagel Balance Box
+DTSTART;VALUE=DATE:20261116
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-16@my-school-menus
+DESCRIPTION:Lunch Entree:\nVeggie Pizza\nFour Cheese Pizza\nBagel Balance 
+ Box\n\nVegetables:\nBaby Carrots\nFresh Chickpea Salad\n\nFruit:\nPears\n
+ \nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondime
+ nts:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Beef Tacos or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20261117
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-17@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Beef Tacos\nBagel Balance Box\n
+ \nVegetables:\nCorn Salsa\nShredded Cabbage\nFiesta Bar Toppings\n\nFruit:
+ \nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Mi
+ lk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20261118
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-18@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nStrawberry Cup\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate
+  Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Roast Turkey or Bagel Balance Box
+DTSTART;VALUE=DATE:20261119
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-19@my-school-menus
+DESCRIPTION:Harvest Lunch!\n\nLunch Entree:\nRoast Turkey\nBagel Balance B
+ ox\n\nVegetables:\nMashed Potatoes\nGreen Beans\n\nFruit:\nVariety of Frui
+ t Options\n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free 
+ Chocolate Milk\nFat-Free Milk\n\nMisc.:\nHomemade Pumpkin Pie Tartlet
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Breaded Chicken Tende
+ rs or Bagel Balance Box
+DTSTART;VALUE=DATE:20261120
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-20@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Breaded Chicken Tenders\nBagel Bala
+ nce Box\n\nVegetables:\nBaby Carrots\nRomaine Salad\n\nFruit:\nFresh Apple
+ s\n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk\n\nCondiments:\nCaesar Dressing\nHomemade Ranch Dres
+ sing\nThousand Island Dressing\nBBQ Sauce
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Cheesy Quesadilla or Bagel Balanc
+ e Box
+DTSTART;VALUE=DATE:20261130
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-11-30@my-school-menus
+DESCRIPTION:Lunch Entree:\nCheesy Quesadilla\nBagel Balance Box\n\nVegetab
+ les:\nBaby Carrots\nRefried Beans\nSalsa\n\nFruit:\nPears\n\nMilk:\n1% Low
+ fat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20261201
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-01@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20261202
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-02@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20261203
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-03@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nKale Chips\nCelery\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: BBQ Chicken Sandwich or Bagel Bal
+ ance Box
+DTSTART;VALUE=DATE:20261204
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-04@my-school-menus
+DESCRIPTION:Lunch Entree:\nBBQ Chicken Sandwich\nBagel Balance Box\n\nVege
+ tables:\nHomemade Coleslaw\nBaby Carrots\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20261207
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-07@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nBaby Carrots\nCrispy Roasted Chickpeas\nMarinara Di
+ pping Sauce\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Cho
+ colate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: French Toast Sticks or Bagel Bala
+ nce Box
+DTSTART;VALUE=DATE:20261208
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-08@my-school-menus
+DESCRIPTION:Lunch Entree:\nFrench Toast Sticks\nBagel Balance Box\n\nVeget
+ ables:\nHashbrown Patties\nSpinach Salad\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nMis
+ c.:\nPork Sausage Links\n\nCondiments:\nMaple Syrup\nCaesar Dressing\nHome
+ made Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20261209
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-09@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Orange Chicken or Bagel Balance B
+ ox
+DTSTART;VALUE=DATE:20261210
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-10@my-school-menus
+DESCRIPTION:Lunch Entree:\nOrange Chicken\nBagel Balance Box\n\nVegetables
+ :\nKale Chips\nCelery\n\nFruit:\nVariety of Fruit Options\n\nGrains:\nVege
+ table Fried Rice\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Fr
+ ee Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Turkey Pepperoni Pizza Pocket or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20261211
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-11@my-school-menus
+DESCRIPTION:Lunch Entree:\nTurkey Pepperoni Pizza Pocket\nBagel Balance Bo
+ x\n\nVegetables:\nRoasted Broccoli\nHerbed Lemon Corn Salad\n\nFruit:\nFre
+ sh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Broccoli Cheese Soup or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20261214
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-14@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Broccoli Cheese Soup\nBagel Balance Bo
+ x\n\nVegetables:\nBaby Carrots\nZucchini\n\nFruit:\nFresh Apples\n\nGrains
+ :\nWhole-Grain Rolls\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFa
+ t-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Beef Tacos or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20261215
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-15@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Beef Tacos\nBagel Balance Box\n
+ \nVegetables:\nCorn Salsa\nShredded Cabbage\nFiesta Bar Toppings\n\nFruit:
+ \nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Mi
+ lk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20261216
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-16@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nKale Chips\nBurger Toppings: Lettuce
+ \nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tomat
+ o\n\nFruit:\nMixed Berries Fruit Cup\n\nMilk:\n1% Lowfat Milk\nFat-Free Ch
+ ocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Spaghetti or Bagel Balan
+ ce Box
+DTSTART;VALUE=DATE:20261217
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-17@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Spaghetti\nBagel Balance Box\n\nVegeta
+ bles:\nGreen Beans\nBaby Carrots\n\nFruit:\nVariety of Fruit Options\n\nMi
+ lk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:
+ \nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Chicken Corn Dog or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20261218
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2026-12-18@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Chicken Corn Dog\nBagel Balance Box
+ \n\nVegetables:\nHomemade Coleslaw\nCrispy Roasted Chickpeas\n\nFruit:\nFr
+ esh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Mil
+ k\n\nCondiments:\nMustard\nKetchup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Vegetarian Black Bean Nachos or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20270104
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-04@my-school-menus
+DESCRIPTION:Lunch Entree:\nVegetarian Black Bean Nachos\nBagel Balance Box
+ \n\nVegetables:\nCorn Salsa\nBaby Carrots\nFiesta Bar Toppings\n\nFruit:\n
+ Fresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free M
+ ilk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270105
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-05@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270106
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-06@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20270107
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-07@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nKale Chips\nCelery\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Breaded Chicken Tende
+ rs or Bagel Balance Box
+DTSTART;VALUE=DATE:20270108
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-08@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Breaded Chicken Tenders\nBagel Bala
+ nce Box\n\nVegetables:\nRoasted Sweet Potatoes\nKale Chips\n\nFruit:\nFres
+ h Apples\n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free C
+ hocolate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing\nBBQ 
+ Sauce
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20270111
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-11@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nBaby Carrots\nCrispy Roasted Chickpeas\nMarinara Di
+ pping Sauce\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Cho
+ colate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: French Toast Sticks or Bagel Bala
+ nce Box
+DTSTART;VALUE=DATE:20270112
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-12@my-school-menus
+DESCRIPTION:Lunch Entree:\nFrench Toast Sticks\nBagel Balance Box\n\nVeget
+ ables:\nHashbrown Patties\nSpinach Salad\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nMis
+ c.:\nPork Sausage Links\n\nCondiments:\nMaple Syrup\nCaesar Dressing\nHome
+ made Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270113
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-13@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Teriyaki Chicken or Bagel Balance
+  Box
+DTSTART;VALUE=DATE:20270114
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-14@my-school-menus
+DESCRIPTION:Lunch Entree:\nTeriyaki Chicken\nBagel Balance Box\n\nVegetabl
+ es:\nStir-Fry Vegetables\nSweet Bell Pepper Strips\n\nFruit:\nVariety of F
+ ruit Options\n\nGrains:\nVegetable Fried Rice\n\nMilk:\n1% Lowfat Milk\nFa
+ t-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressi
+ ng
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Turkey Pepperoni Pizza Pocket or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270115
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-15@my-school-menus
+DESCRIPTION:Lunch Entree:\nTurkey Pepperoni Pizza Pocket\nBagel Balance Bo
+ x\n\nVegetables:\nHomemade Coleslaw\nRoasted Broccoli\n\nFruit:\nFresh App
+ les\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Beef Tacos or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270119
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-19@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Beef Tacos\nBagel Balance Box\n
+ \nVegetables:\nBaby Carrots\nShredded Cabbage\nFiesta Bar Toppings\n\nFrui
+ t:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Fr
+ ee Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270120
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-20@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Popcorn Chicken Smackers or Bagel
+  Balance Box
+DTSTART;VALUE=DATE:20270121
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-21@my-school-menus
+DESCRIPTION:Lunch Entree:\nPopcorn Chicken Smackers\nBagel Balance Box\n\n
+ Vegetables:\nMashed Potatoes\nBaby Carrots\n\nFruit:\nVariety of Fruit Opt
+ ions\n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free Choco
+ late Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Breaded Chicken Tende
+ rs or Bagel Balance Box
+DTSTART;VALUE=DATE:20270122
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-22@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Breaded Chicken Tenders\nBagel Bala
+ nce Box\n\nVegetables:\nCrispy Roasted Chickpeas\nKale Chips\n\nFruit:\nPe
+ ars\n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocol
+ ate Milk\nFat-Free Milk\n\nCondiments:\nBBQ Sauce
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Pozole or Bagel Balance 
+ Box
+DTSTART;VALUE=DATE:20270126
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-26@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Pozole\nBagel Balance Box\n\nVegetable
+ s:\nRefried Beans\nCrisp Radish & Onions\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nGrains:\nWhole-Grain Corn Chips\n\nMilk:\n1% Lowfat Milk\nFat-Free C
+ hocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270127
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-27@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nStrawberry Cup\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate
+  Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMustard\nMayo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Beefy Nachos or Bagel Balance Box
+DTSTART;VALUE=DATE:20270128
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-28@my-school-menus
+DESCRIPTION:Lunch Entree:\nBeefy Nachos\nBagel Balance Box\n\nVegetables:
+ \nCorn Salsa\nShredded Cabbage\nFiesta Bar Toppings\n\nFruit:\nFresh Apple
+ s\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Chicken Corn Dog or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20270129
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-01-29@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Chicken Corn Dog\nBagel Balance Box
+ \n\nVegetables:\nKale Chips\nFresh Chickpea Salad\n\nFruit:\nFresh Apples
+ \n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondi
+ ments:\nKetchup\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Cheesy Quesadilla or Bagel Balanc
+ e Box
+DTSTART;VALUE=DATE:20270201
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-01@my-school-menus
+DESCRIPTION:Lunch Entree:\nCheesy Quesadilla\nBagel Balance Box\n\nVegetab
+ les:\nRefried Beans\nBaby Carrots\nSalsa\n\nFruit:\nPears\n\nMilk:\n1% Low
+ fat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270202
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-02@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270203
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-03@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20270204
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-04@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nKale Chips\nCelery\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20270208
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-08@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nBaby Carrots\nCrispy Roasted Chickpeas\nMarinara Di
+ pping Sauce\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Cho
+ colate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Pancakes or Bagel Bal
+ ance Box
+DTSTART;VALUE=DATE:20270209
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-09@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Pancakes\nBagel Balance Box\n\nVege
+ tables:\nHashbrown Patties\nHearty Kale Salad\n\nFruit:\nVariety of Fruit 
+ Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n
+ \nMisc.:\nPork Sausage Links\n\nCondiments:\nMaple Syrup\nCaesar Dressing
+ \nHomemade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Impossible Burger or Bagel Balance Box
+DTSTART;VALUE=DATE:20270210
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-10@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nImpossib
+ le Burger\nBagel Balance Box\n\nVegetables:\nTater Tots\nHomemade Coleslaw
+ \nBurger Toppings: Lettuce\nBurger Toppings: Onion\nBurger Toppings: Pickl
+ es\nBurger Toppings: Tomato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n
+ 1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKet
+ chup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Orange Chicken or Bagel Balance B
+ ox
+DTSTART;VALUE=DATE:20270211
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-11@my-school-menus
+DESCRIPTION:Lunch Entree:\nOrange Chicken\nBagel Balance Box\n\nVegetables
+ :\nKale Chips\nBaby Carrots\n\nFruit:\nVariety of Fruit Options\n\nGrains:
+ \nVegetable Fried Rice\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\n
+ Fat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Macaroni & Cheese or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270212
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-12@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Macaroni & Cheese\nBagel Balance Box\n
+ \nVegetables:\nGreen Beans\nVeggie Sticks\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Beef Tacos or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270216
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-16@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Beef Tacos\nBagel Balance Box\n
+ \nVegetables:\nBaby Carrots\nShredded Cabbage\nFiesta Bar Toppings\n\nFrui
+ t:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate 
+ Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270217
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-17@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nHearty Kale Salad\nBurger Toppings: 
+ Lettuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings
+ : Tomato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat
+ -Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+ \nCaesar Dressing\nHomemade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Spaghetti or Bagel Balan
+ ce Box
+DTSTART;VALUE=DATE:20270218
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-18@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Spaghetti\nBagel Balance Box\n\nVegeta
+ bles:\nGreen Beans\nBaby Carrots\n\nFruit:\nVariety of Fruit Options\n\nMi
+ lk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:
+ \nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Veggie Pizza or Four Cheese Pizza
+  or Bagel Balance Box
+DTSTART;VALUE=DATE:20270219
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-19@my-school-menus
+DESCRIPTION:Lunch Entree:\nVeggie Pizza\nFour Cheese Pizza\nBagel Balance 
+ Box\n\nVegetables:\nBaby Carrots\nFresh Chickpea Salad\n\nFruit:\nPears\n
+ \nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondime
+ nts:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Cheesy Quesadilla or Bagel Balanc
+ e Box
+DTSTART;VALUE=DATE:20270222
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-22@my-school-menus
+DESCRIPTION:Lunch Entree:\nCheesy Quesadilla\nBagel Balance Box\n\nVegetab
+ les:\nBaby Carrots\nCorn Salsa\n\nFruit:\nPears\n\nMilk:\n1% Lowfat Milk\n
+ Fat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Pozole or Bagel Balance 
+ Box
+DTSTART;VALUE=DATE:20270223
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-23@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Pozole\nBagel Balance Box\n\nVegetable
+ s:\nCrisp Radish & Onions\nRefried Beans\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nGrains:\nWhole-Grain Corn Chips\n\nMilk:\n1% Lowfat Milk\nFat-Free C
+ hocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270224
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-24@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nHearty Kale Salad\nBurger Toppings: 
+ Lettuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings
+ : Tomato\n\nFruit:\nMixed Berries Fruit Cup\n\nMilk:\n1% Lowfat Milk\nFat-
+ Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+ \nCaesar Dressing\nHomemade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Beefy Nachos or Bagel Balance Box
+DTSTART;VALUE=DATE:20270225
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-25@my-school-menus
+DESCRIPTION:Lunch Entree:\nBeefy Nachos\nBagel Balance Box\n\nVegetables:
+ \nBaby Carrots\nShredded Cabbage\nFiesta Bar Toppings\n\nFruit:\nFresh App
+ les\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Broccoli Cheese Soup or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270226
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-02-26@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Broccoli Cheese Soup\nBagel Balance Bo
+ x\n\nVegetables:\nKale Chips\nZucchini\n\nFruit:\nFresh Apples\n\nGrains:
+ \nWhole-Grain Rolls\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat
+ -Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20270301
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-01@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nBaby Carrots\nCrispy Roasted Chickpeas\nMarinara Di
+ pping Sauce\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Cho
+ colate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270302
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-02@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270303
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-03@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20270304
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-04@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nKale Chips\nCelery\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Grilled Cheese Sandwi
+ ch or Bagel Balance Box
+DTSTART;VALUE=DATE:20270305
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-05@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Grilled Cheese Sandwich\nBagel Bala
+ nce Box\n\nVegetables:\nCreamy Tomato Soup\nRoasted Broccoli\nRomaine Sala
+ d\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Mil
+ k\nFat-Free Milk\n\nCondiments:\nCaesar Dressing\nHomemade Ranch Dressing
+ \nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Veggie Pizza or Four Cheese Pizza
+  or Bagel Balance Box
+DTSTART;VALUE=DATE:20270308
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-08@my-school-menus
+DESCRIPTION:Lunch Entree:\nVeggie Pizza\nFour Cheese Pizza\nBagel Balance 
+ Box\n\nVegetables:\nVeggie Sticks\nFresh Chickpea Salad\n\nFruit:\nPears\n
+ \nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondime
+ nts:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: French Toast Sticks or Bagel Bala
+ nce Box
+DTSTART;VALUE=DATE:20270309
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-09@my-school-menus
+DESCRIPTION:Lunch Entree:\nFrench Toast Sticks\nBagel Balance Box\n\nVeget
+ ables:\nHashbrown Patties\nSpinach Salad\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nMis
+ c.:\nPork Sausage Links\n\nCondiments:\nMaple Syrup\nCaesar Dressing\nHome
+ made Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270310
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-10@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Orange Chicken or Bagel Balance B
+ ox
+DTSTART;VALUE=DATE:20270311
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-11@my-school-menus
+DESCRIPTION:Lunch Entree:\nOrange Chicken\nBagel Balance Box\n\nVegetables
+ :\nKale Chips\nSweet Bell Pepper Strips\n\nFruit:\nVariety of Fruit Option
+ s\n\nGrains:\nVegetable Fried Rice\n\nMilk:\n1% Lowfat Milk\nFat-Free Choc
+ olate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20270312
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-12@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nBaby Carrots\nCrispy Roasted Chickpeas\nMarinara Di
+ pping Sauce\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Cho
+ colate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Macaroni & Cheese or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270315
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-15@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Macaroni & Cheese\nBagel Balance Box\n
+ \nVegetables:\nGreen Beans\nBaby Carrots\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Beef Tacos or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270316
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-16@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Beef Tacos\nBagel Balance Box\n
+ \nVegetables:\nSweet Bell Pepper Strips\nShredded Cabbage\nFiesta Bar Topp
+ ings\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Fre
+ e Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270317
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-17@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nFresh Chickpea Salad\nBurger Topping
+ s: Lettuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppi
+ ngs: Tomato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\n
+ Fat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMust
+ ard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Popcorn Chicken Smackers or Bagel
+  Balance Box
+DTSTART;VALUE=DATE:20270318
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-18@my-school-menus
+DESCRIPTION:Lunch Entree:\nPopcorn Chicken Smackers\nBagel Balance Box\n\n
+ Vegetables:\nMashed Potatoes\nRomaine Salad\n\nFruit:\nVariety of Fruit Op
+ tions\n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free Choc
+ olate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Grilled Cheese Sandwi
+ ch or Bagel Balance Box
+DTSTART;VALUE=DATE:20270322
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-22@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Grilled Cheese Sandwich\nBagel Bala
+ nce Box\n\nVegetables:\nCreamy Tomato Soup\nBaby Carrots\nHomemade Colesla
+ w\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Mil
+ k\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Pozole or Bagel Balance 
+ Box
+DTSTART;VALUE=DATE:20270323
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-23@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Pozole\nBagel Balance Box\n\nVegetable
+ s:\nRefried Beans\nCrisp Radish & Onions\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nGrains:\nWhole-Grain Corn Chips\n\nMilk:\n1% Lowfat Milk\nFat-Free C
+ hocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270324
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-24@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Spaghetti or Bagel Balan
+ ce Box
+DTSTART;VALUE=DATE:20270325
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-25@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Spaghetti\nBagel Balance Box\n\nVegeta
+ bles:\nRomaine Salad\nCucumbers\n\nFruit:\nPears\n\nMilk:\n1% Lowfat Milk
+ \nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nCaesar Dressing\n
+ Homemade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Broccoli Cheese Soup or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270326
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-26@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Broccoli Cheese Soup\nBagel Balance Bo
+ x\n\nVegetables:\nBaby Carrots\nZucchini\n\nFruit:\nFresh Apples\n\nGrains
+ :\nWhole-Grain Rolls\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFa
+ t-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Cheesy Quesadilla or Bagel Balanc
+ e Box
+DTSTART;VALUE=DATE:20270329
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-29@my-school-menus
+DESCRIPTION:Lunch Entree:\nCheesy Quesadilla\nBagel Balance Box\n\nVegetab
+ les:\nBaby Carrots\nRefried Beans\nSalsa\n\nFruit:\nPears\n\nMilk:\n1% Low
+ fat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270330
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-30@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270331
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-03-31@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nStrawberry Cup\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate
+  Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20270401
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-01@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nRomaine Salad\nCelery\n\nFruit:\nFresh Apples\n\nMi
+ lk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:
+ \nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Chicken Corn Dog or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20270402
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-02@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Chicken Corn Dog\nBagel Balance Box
+ \n\nVegetables:\nKale Chips\nCrispy Roasted Chickpeas\n\nFruit:\nFresh App
+ les\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCo
+ ndiments:\nKetchup\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20270412
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-12@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nVeggie Sticks\nCrispy Roasted Chickpeas\nMarinara D
+ ipping Sauce\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Ch
+ ocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: French Toast Sticks or Bagel Bala
+ nce Box
+DTSTART;VALUE=DATE:20270413
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-13@my-school-menus
+DESCRIPTION:Lunch Entree:\nFrench Toast Sticks\nBagel Balance Box\n\nVeget
+ ables:\nHashbrown Patties\nSpinach Salad\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nMis
+ c.:\nPork Sausage Links\n\nCondiments:\nMaple Syrup\nCaesar Dressing\nHome
+ made Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270414
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-14@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Teriyaki Chicken or Bagel Balance
+  Box
+DTSTART;VALUE=DATE:20270415
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-15@my-school-menus
+DESCRIPTION:Lunch Entree:\nTeriyaki Chicken\nBagel Balance Box\n\nVegetabl
+ es:\nStir-Fry Vegetables\nSweet Bell Pepper Strips\n\nFruit:\nVariety of F
+ ruit Options\n\nGrains:\nVegetable Fried Rice\n\nMilk:\n1% Lowfat Milk\nFa
+ t-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressi
+ ng
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Local All-Beef Hamburger or Impos
+ sible Burger or Bagel Balance Box
+DTSTART;VALUE=DATE:20270416
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-16@my-school-menus
+DESCRIPTION:Lunch Entree:\nLocal All-Beef Hamburger\nImpossible Burger\nBa
+ gel Balance Box\n\nVegetables:\nPotato Wedges\nRomaine Salad\nBurger Toppi
+ ngs: Lettuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Top
+ pings: Tomato\n\nFruit:\nPears\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard\nCaesar Dress
+ ing\nHomemade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Veggie Pizza or Four Cheese Pizza
+  or Bagel Balance Box
+DTSTART;VALUE=DATE:20270419
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-19@my-school-menus
+DESCRIPTION:Lunch Entree:\nVeggie Pizza\nFour Cheese Pizza\nBagel Balance 
+ Box\n\nVegetables:\nVeggie Sticks\nFresh Chickpea Salad\n\nFruit:\nPears\n
+ \nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondime
+ nts:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Beef Tacos or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270420
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-20@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Beef Tacos\nBagel Balance Box\n
+ \nVegetables:\nCorn Salsa\nShredded Cabbage\nFiesta Bar Toppings\n\nFruit:
+ \nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Mi
+ lk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270421
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-21@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Popcorn Chicken Smackers or Bagel
+  Balance Box
+DTSTART;VALUE=DATE:20270422
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-22@my-school-menus
+DESCRIPTION:Lunch Entree:\nPopcorn Chicken Smackers\nBagel Balance Box\n\n
+ Vegetables:\nMashed Potatoes\nZucchini\n\nFruit:\nVariety of Fruit Options
+ \n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate
+  Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Turkey Pepperoni Pizza Pocket or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270423
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-23@my-school-menus
+DESCRIPTION:Lunch Entree:\nTurkey Pepperoni Pizza Pocket\nBagel Balance Bo
+ x\n\nVegetables:\nCherry Tomatoes\nSpinach Salad\n\nFruit:\nFresh Apples\n
+ \nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondime
+ nts:\nCaesar Dressing\nHomemade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Macaroni & Cheese or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270426
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-26@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Macaroni & Cheese\nBagel Balance Box\n
+ \nVegetables:\nGreen Beans\nVeggie Sticks\n\nFruit:\nFresh Apples\n\nMilk:
+ \n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nH
+ omemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Pozole or Bagel Balance 
+ Box
+DTSTART;VALUE=DATE:20270427
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-27@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Pozole\nBagel Balance Box\n\nVegetable
+ s:\nCrisp Radish & Onions\nRefried Beans\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nGrains:\nWhole-Grain Corn Chips\n\nMilk:\n1% Lowfat Milk\nFat-Free C
+ hocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270428
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-28@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nRomaine Salad\nBurger Toppings: Lett
+ uce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: To
+ mato\n\nFruit:\nMixed Berries Fruit Cup\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Beefy Nachos or Bagel Balance Box
+DTSTART;VALUE=DATE:20270429
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-04-29@my-school-menus
+DESCRIPTION:Lunch Entree:\nBeefy Nachos\nBagel Balance Box\n\nVegetables:
+ \nCorn Salsa\nCherry Tomatoes\nFiesta Bar Toppings\n\nFruit:\nFresh Apples
+ \n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Grilled Cheese Sandwi
+ ch or Bagel Balance Box
+DTSTART;VALUE=DATE:20270503
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-03@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Grilled Cheese Sandwich\nBagel Bala
+ nce Box\n\nVegetables:\nCreamy Tomato Soup\nBaby Carrots\nHomemade Colesla
+ w\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Mil
+ k\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270504
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-04@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270505
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-05@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nCherry Tomatoes\nBurger Toppings: Le
+ ttuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: 
+ Tomato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-F
+ ree Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20270506
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-06@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nKale Chips\nBaby Carrots\n\nFruit:\nFresh Apples\n
+ \nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondime
+ nts:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Breaded Chicken Tende
+ rs or Bagel Balance Box
+DTSTART;VALUE=DATE:20270507
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-07@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Breaded Chicken Tenders\nBagel Bala
+ nce Box\n\nVegetables:\nRomaine Salad\nRoasted Sweet Potatoes\n\nFruit:\nF
+ resh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Mi
+ lk\n\nCondiments:\nBBQ Sauce\nCaesar Dressing\nHomemade Ranch Dressing\nTh
+ ousand Island Dressing\nKetchup
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20270510
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-10@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nCelery\nCherry Tomatoes\nMarinara Dipping Sauce\n\n
+ Fruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFa
+ t-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Pancakes or Bagel Bal
+ ance Box
+DTSTART;VALUE=DATE:20270511
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-11@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Pancakes\nBagel Balance Box\n\nVege
+ tables:\nHashbrown Patties\nRomaine Salad\n\nFruit:\nVariety of Fruit Opti
+ ons\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nMi
+ sc.:\nPork Sausage Links\n\nCondiments:\nMaple Syrup\nCaesar Dressing\nHom
+ emade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270512
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-12@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Orange Chicken or Bagel Balance B
+ ox
+DTSTART;VALUE=DATE:20270513
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-13@my-school-menus
+DESCRIPTION:Lunch Entree:\nOrange Chicken\nBagel Balance Box\n\nVegetables
+ :\nKale Chips\nSweet Bell Pepper Strips\n\nFruit:\nVariety of Fruit Option
+ s\n\nGrains:\nVegetable Fried Rice\n\nMilk:\n1% Lowfat Milk\nFat-Free Choc
+ olate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Chicken Corn Dog or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20270514
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-14@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Chicken Corn Dog\nBagel Balance Box
+ \n\nVegetables:\nRomaine Salad\nFresh Chickpea Salad\n\nFruit:\nFresh Appl
+ es\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCon
+ diments:\nKetchup\nMustard\nCaesar Dressing\nHomemade Ranch Dressing\nThou
+ sand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Veggie Pizza or Four Cheese Pizza
+  or Bagel Balance Box
+DTSTART;VALUE=DATE:20270517
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-17@my-school-menus
+DESCRIPTION:Lunch Entree:\nVeggie Pizza\nFour Cheese Pizza\nBagel Balance 
+ Box\n\nVegetables:\nVeggie Sticks\nFresh Chickpea Salad\n\nFruit:\nPears\n
+ \nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondime
+ nts:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Beef Tacos or Bag
+ el Balance Box
+DTSTART;VALUE=DATE:20270518
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-18@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Beef Tacos\nBagel Balance Box\n
+ \nVegetables:\nCorn Salsa\nShredded Cabbage\nFiesta Bar Toppings\n\nFruit:
+ \nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Mi
+ lk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270519
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-19@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nCherry Tomatoes\nBurger Toppings: Le
+ ttuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: 
+ Tomato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-F
+ ree Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Popcorn Chicken Smackers or Bagel
+  Balance Box
+DTSTART;VALUE=DATE:20270520
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-20@my-school-menus
+DESCRIPTION:Lunch Entree:\nPopcorn Chicken Smackers\nBagel Balance Box\n\n
+ Vegetables:\nMashed Potatoes\nGreen Beans\n\nFruit:\nVariety of Fruit Opti
+ ons\n\nGrains:\nWhole-Grain Roll\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocol
+ ate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Breaded Chicken Tende
+ rs or Bagel Balance Box
+DTSTART;VALUE=DATE:20270521
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-21@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Breaded Chicken Tenders\nBagel Bala
+ nce Box\n\nVegetables:\nBaby Carrots\nRomaine Salad\n\nFruit:\nFresh Apple
+ s\n\nGrains:\nWhole-Grain Rolls\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocola
+ te Milk\nFat-Free Milk\n\nCondiments:\nBBQ Sauce\nKetchup\nCaesar Dressing
+ \nHomemade Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Cheesy Quesadilla or Bagel Balanc
+ e Box
+DTSTART;VALUE=DATE:20270524
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-24@my-school-menus
+DESCRIPTION:Lunch Entree:\nCheesy Quesadilla\nBagel Balance Box\n\nVegetab
+ les:\nBaby Carrots\nBlack Beans\nSalsa\n\nFruit:\nPears\n\nMilk:\n1% Lowfa
+ t Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ra
+ nch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Homemade Pozole or Bagel Balance 
+ Box
+DTSTART;VALUE=DATE:20270525
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-25@my-school-menus
+DESCRIPTION:Lunch Entree:\nHomemade Pozole\nBagel Balance Box\n\nVegetable
+ s:\nRefried Beans\nCrisp Radish & Onions\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nGrains:\nWhole-Grain Corn Chips\n\nMilk:\n1% Lowfat Milk\nFat-Free C
+ hocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270526
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-26@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nStrawberry Cup\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate
+  Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Beefy Nachos or Bagel Balance Box
+DTSTART;VALUE=DATE:20270527
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-27@my-school-menus
+DESCRIPTION:Lunch Entree:\nBeefy Nachos\nBagel Balance Box\n\nVegetables:
+ \nCorn Salsa\nCherry Tomatoes\nFiesta Bar Toppings\n\nFruit:\nFresh Apples
+ \n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Local All-Beef Hamburger or Impos
+ sible Burger or Bagel Balance Box
+DTSTART;VALUE=DATE:20270528
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-05-28@my-school-menus
+DESCRIPTION:Lunch Entree:\nLocal All-Beef Hamburger\nImpossible Burger\nBa
+ gel Balance Box\n\nVegetables:\nPotato Wedges\nRomaine Salad\nBurger Toppi
+ ngs: Lettuce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Top
+ pings: Tomato\n\nFruit:\nPears\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: ¡Taco Tuesday! Chicken Tacos or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270601
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-01@my-school-menus
+DESCRIPTION:Lunch Entree:\n¡Taco Tuesday! Chicken Tacos\nBagel Balance Bo
+ x\n\nVegetables:\nBlack Beans\nShredded Cabbage\nFiesta Bar Toppings\n\nFr
+ uit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolat
+ e Milk\nFat-Free Milk
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270602
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-02@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nVariety of Fruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free
+  Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Pepperoni Pizza or Four Cheese Pi
+ zza or Bagel Balance Box
+DTSTART;VALUE=DATE:20270603
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-03@my-school-menus
+DESCRIPTION:Lunch Entree:\nPepperoni Pizza\nFour Cheese Pizza\nBagel Balan
+ ce Box\n\nVegetables:\nKale Chips\nCherry Tomatoes\n\nFruit:\nVariety of F
+ ruit Options\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free M
+ ilk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Breaded Chicken Tende
+ rs or Bagel Balance Box
+DTSTART;VALUE=DATE:20270604
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-04@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Breaded Chicken Tenders\nBagel Bala
+ nce Box\n\nVegetables:\nBaby Carrots\nSweet Bell Pepper Strips\n\nFruit:\n
+ Fresh Apples\n\nGrains:\nWhole-Grain Rolls\n\nMilk:\n1% Lowfat Milk\nFat-F
+ ree Chocolate Milk\nFat-Free Milk\n\nCondiments:\nBBQ Sauce\nKetchup\nHome
+ made Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Mozzarella Breadstick
+ s or Bagel Balance Box
+DTSTART;VALUE=DATE:20270607
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-07@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Mozzarella Breadsticks\nBagel Balan
+ ce Box\n\nVegetables:\nCelery\nCrispy Roasted Chickpeas\nMarinara Dipping 
+ Sauce\n\nFruit:\nFresh Apples\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate
+  Milk\nFat-Free Milk\n\nCondiments:\nHomemade Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: French Toast Sticks or Bagel Bala
+ nce Box
+DTSTART;VALUE=DATE:20270608
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-08@my-school-menus
+DESCRIPTION:Lunch Entree:\nFrench Toast Sticks\nBagel Balance Box\n\nVeget
+ ables:\nHashbrown Patties\nSpinach Salad\n\nFruit:\nVariety of Fruit Optio
+ ns\n\nMilk:\n1% Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nMis
+ c.:\nPork Sausage Links\n\nCondiments:\nMaple Syrup\nCaesar Dressing\nHome
+ made Ranch Dressing\nThousand Island Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Hearty Harvest Chicken Patty Sand
+ wich or Bagel Balance Box
+DTSTART;VALUE=DATE:20270609
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-09@my-school-menus
+DESCRIPTION:Lunch Entree:\nHearty Harvest Chicken Patty Sandwich\nBagel Ba
+ lance Box\n\nVegetables:\nTater Tots\nBaby Carrots\nBurger Toppings: Lettu
+ ce\nBurger Toppings: Onion\nBurger Toppings: Pickles\nBurger Toppings: Tom
+ ato\n\nFruit:\nMixed Berries Fruit Cup\n\nMilk:\n1% Lowfat Milk\nFat-Free 
+ Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetchup\nMayo\nMustard
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Whole-Grain Chicken Corn Dog or B
+ agel Balance Box
+DTSTART;VALUE=DATE:20270610
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-10@my-school-menus
+DESCRIPTION:Lunch Entree:\nWhole-Grain Chicken Corn Dog\nBagel Balance Box
+ \n\nVegetables:\nBaby Carrots\nCelery\n\nFruit:\nApple Slices\n\nMilk:\n1%
+  Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nKetch
+ up\nMustard\nCaesar Dressing\nHomemade Ranch Dressing\nThousand Island Dre
+ ssing
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lincoln Elementary School Lunch: Turkey Pepperoni Pizza Pocket or 
+ Bagel Balance Box
+DTSTART;VALUE=DATE:20270611
+DTSTAMP:20261127T181826Z
+UID:9188-132931-2027-06-11@my-school-menus
+DESCRIPTION:Lunch Entree:\nTurkey Pepperoni Pizza Pocket\nBagel Balance Bo
+ x\n\nVegetables:\nCelery\nBaby Carrots\n\nFruit:\nApple Slices\n\nMilk:\n1
+ % Lowfat Milk\nFat-Free Chocolate Milk\nFat-Free Milk\n\nCondiments:\nHome
+ made Ranch Dressing
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
