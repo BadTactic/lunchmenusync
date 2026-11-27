@@ -1,0 +1,47 @@
+name: Update School Lunch Calendar
+
+on:
+  schedule:
+    # Run daily. GitHub Actions schedules use UTC.
+    - cron: "15 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install menu converter
+        run: pip install my-school-menus
+
+      - name: Generate lunch calendar
+        run: |
+          mkdir -p docs
+          my-school-menus \
+            --district 1167 \
+            --site 9188 \
+            --meal lunch \
+            -o docs/lunch.ics
+
+      - name: Publish updated calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/lunch.ics
+          if git diff --cached --quiet; then
+            echo "Lunch menu hasn't changed."
+          else
+            git commit -m "Update school lunch calendar"
+            git push
+          fi
